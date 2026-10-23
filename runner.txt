@@ -1,0 +1,1 @@
+clear; chcp 65001; gcc.exe index.c coeficiente_angular.c coeficiente_quadratico.c coeficiente_independente.c bhaskara.c funcao.c -o index.exe; .\index.exe;
